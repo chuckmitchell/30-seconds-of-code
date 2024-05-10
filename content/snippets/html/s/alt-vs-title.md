@@ -17,4 +17,4 @@ The `title` attribute, on the other hand, provides **additional information** ab
 <img src="image.jpg" alt="Alternative text" title="Additional information">
 ```
 
-Overall, the `alt` attribute should be specified for all `<img>` elements as it is important for both accessibility and SEO. The `title` attribute, on the other hand, is optional and should only be used when you need to provids additional information about the image.
+Overall, the `alt` attribute should be specified for all `<img>` elements as it is important for both accessibility and SEO. The `title` attribute, on the other hand, is optional and should only be used when you need to provide additional information about the image.
